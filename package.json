@@ -1,0 +1,23 @@
+{
+  "name": "example-testcafe",
+  "version": "1.0.0",
+  "description": "Example of using TestCafe for e2e tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marciovrl/example-testcafe.git"
+  },
+  "author": "marcio lemos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marciovrl/example-testcafe/issues"
+  },
+  "homepage": "https://github.com/marciovrl/example-testcafe#readme",
+  "dependencies": {
+    "cucumber": "2.3.1",
+    "testcafe": "0.16.2"
+  }
+}
